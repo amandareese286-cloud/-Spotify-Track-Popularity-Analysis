@@ -23,27 +23,18 @@ Mode (major/minor)
 
 Methods & Techniques
 
-Exploratory Data Analysis (EDA)
-
-Feature engineering (polynomial & log transformations)
-
-Interaction terms with categorical variables
-
-Multiple linear regression using statsmodels
-
+Exploratory Data Analysis (EDA) to assess feature distributions and relationships
+Feature engineering, including polynomial and log transformations
+Interaction terms between audio features and categorical variables
+Multiple linear regression implemented using statsmodels
 Model diagnostics:
 
-Residual plots
-
-Predicted vs. observed analysis
-
+Residual analysis
+Predicted vs. observed comparisons
 Coefficient interpretation
 Key Findings
 
-Certain audio features have nonlinear relationships with popularity
-
-The effect of features like energy and danceability varies significantly by genre
-
-Including interaction terms improved interpretability and model performance
-
-Visual diagnostics were critical in identifying model limitations
+Several audio features demonstrate nonlinear relationships with song popularity
+The influence of features such as energy and danceability varies significantly by genre
+Incorporating interaction terms improved both model interpretability and overall model fit
+Visual diagnostics played a critical role in identifying model limitations and assessing assumptions
