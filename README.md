@@ -20,6 +20,7 @@ Model diagnostics:
 Residual analysis
 Predicted vs. observed comparisons
 Coefficient interpretation
+
 Key Findings
 
 Several audio features demonstrate nonlinear relationships with song popularity
