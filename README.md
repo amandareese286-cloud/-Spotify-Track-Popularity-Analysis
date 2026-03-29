@@ -1,5 +1,5 @@
 This project explores what factors influence song popularity on Spotify using audio features and categorical metadata.
-Developed as the final project for an Intro to Data-Centric Computing course, the analysis focuses on interpretable modeling, feature engineering, and model diagnostics rather than black-box prediction.
+Developed as the final project for an Intro to Data-Centric Computing course, the analysis prioritizes interpretability, feature engineering, and model diagnostics rather than black-box prediction.
 
 Data
 
