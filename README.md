@@ -7,19 +7,7 @@ Source: Spotify track audio features dataset
 
 Target Variable: track_popularity (continuous)
 
-Key Features:
-
-Danceability
-
-Energy (including nonlinear transformations)
-
-Tempo
-
-Liveness (log-transformed)
-
-Playlist genre (categorical)
-
-Mode (major/minor)
+Key Features: Danceability, Energy (including nonlinear transformations), Tempo, Liveness (log-transformed), Playlist genre (categorical), Mode (major/minor)
 
 Methods & Techniques
 
