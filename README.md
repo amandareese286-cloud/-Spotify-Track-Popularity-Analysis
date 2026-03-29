@@ -5,8 +5,6 @@ Data
 
 Source: Spotify track audio features dataset
 
-Observations: [insert # tracks]
-
 Target Variable: track_popularity (continuous)
 
 Key Features:
